@@ -1,0 +1,2 @@
+# Image_Processing_Ridge_Detection
+Ridge detection algorithm
